@@ -1,8 +1,7 @@
 # Minecraft
 <html>
-  <h1>
-    Minecraft
-  </h1>
+<body>
+  <img src="https://www.minecraft.net/content/dam/minecraft/games/minecraft/logos/Global-Header_MCCB-Logo_300x51.svg"/>
     <h2>WHAT IS MINECRAFT?</h2>
     <p>Minecraft is a game made up of blocks, creatures, and community. You can survive the night or build a work of art – the choice is all yours. But if the thought of exploring a vast new world all on your own feels overwhelming, then fear not! Let’s explore what Minecraft is all about!</p>
     <h2>WHAT IS THE GOAL OF MINECRAFT?</h2>
@@ -10,7 +9,40 @@
 
 Creatures can be battled or befriended, depending on how you play. The world of Minecraft allows for epic adventures, quiet meditations, and everything in between. You can even share your creations with other players, or play in community worlds!
 
-Learn more about crafting, one of Minecraft’s basic features, <a href="https://www.minecraft.net/article/how-craft">in this guide</p>
+Learn more about crafting, one of Minecraft’s basic features, <a href="https://www.minecraft.net/article/how-craft"/>in this guide</a></p>
 <img src="https://www.minecraft.net/content/dam/games/minecraft/screenshots/wim-screen.jpg"/>
 <p><b>The Minecraft Interface</b>b</p>
+<h2>WHAT AGE IS MINECRAFT FOR?</h2>
+<p>Minecraft has a recommended PEGI rating of 7 and an ESBR rating of Everyone 10+. Don’t worry – grownups are welcome, too!
+
+If you’re a parent of a Minecrafter, make sure to check out Minecraft’s <a href="https://help.minecraft.net/hc/en-us/articles/4409976432013-Minecraft-Java-Edition-Parental-Control-Features-FAQ">parental control features FAQ.</a></p>
+<img src="https://www.minecraft.net/content/dam/games/minecraft/screenshots/wim-end.jpg"/>
+<h2>IS MINECRAFT VIOLENT?</h2>
+<p>Because combat is part of the game, there are some elements of mild violence. Players can hit and defeat both passive and hostile mobs, as well as other players if playing in multiplayer mode. However, the graphical violence is limited by Minecraft’s visual style and there’s no blood.  When it comes to unwanted player violence like griefing, we encourage players to <a href="https://help.minecraft.net/hc/en-us/articles/4409161646989-Player-and-Server-Griefing-Issues-FAQ"/>report griefing behavior.</a></p>
+<img src="https://www.minecraft.net/content/dam/games/minecraft/screenshots/wim-combat.jpg"/>
+<h2>WHAT PLATFORMS IS MINECRAFT AVAILABLE ON?</h2>
+<p>Minecraft is available on Windows, Mac, Linux, Xbox One, Xbox Series S and X, PlayStation 4 and 5, Nintendo Switch, Fire OS/TV, Android, iOS, Windows Mobile, and Samsung Gear VR.
+
+<a href="https://www.minecraft.net/get-minecraft"/>Find your preferred platform here.</a></p>
+<h2>WHAT GAME MODES ARE THERE?</h2>
+<p>Minecraft has two standard game modes – Creative mode and Survival mode. 
+
+In Creative mode, you have unlimited resources, immortality, the ability to fly, as well as the ability to destroy any kind of block instantly. This mode is mostly used by players who want to focus on the sheer pleasure of creating things with blocks.
+
+In Survival mode, you explore the world, collect resources, craft, fight monsters, and gain experience points. Breaking different blocks takes work and requires specific tools. You are also bound by gravity and must manage your own hunger and health. Survival mode in Minecraft: Java Edition also has a sub-category mode called “Hardcore” in which you only get one life – lose it and it’s game over.
+
+Creative and Survival both have four difficulty settings: Peaceful, Easy, Normal, and Hard. In Creative mode these settings don’t matter very much, because mobs won’t attack you. In Survival mode however, these difficulty settings are very important! They affect a number of factors, such as how often hostile mobs will spawn, how much damage they do, how quickly the hunger bar is depleted, and how fast a player’s health replenishes over time.
+
+To learn more about Creative and Survival mode, check out this guide.
+
+In addition to these game modes, there’s also unique content created by the Minecraft community in the form of hand-crafted worlds, mini-games, mash-up packs, adventure maps, and much more. This content can be found in Bedrock Edition at Minecraft Marketplace or via the subscription service Realms Plus, as well as Java Realms (Java Edition).
+
+To learn more about community content, visit our guides to <a href="https://www.minecraft.net/article/what-minecraft-marketplace"/>Minecraft Marketplace</a> and <a href="https://www.minecraft.net/article/what-are-minecraft-realms"/>Minecraft Realms.</a></p>
+<img src"https://www.minecraft.net/content/dam/games/minecraft/key-art/bedrock-748x421.jpg"/>
+<h2>WELCOME TO THE OVERWORLD!</h2>
+<p>Minecraft is a game for everyone, and we want to see you thrive in it. To help you on your journey, we’ve compiled a list of resources. These resources are divided into three categories: Before you begin, Getting started, and Level up. To learn more, head over to our resource hub <a href="https://www.minecraft.net/en-us/minecraft-tips-for-beginners">Tips for Beginners</a>. You can also find answers to many of your questions at our <a href="https://help.minecraft.net/"/>help site</a>.
+
+Happy Minecrafting, and here’s one final tip from us: don’t dig straight down!</p>
+
+</body>
 </html>
